@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|c:\\users\\omarnl\\desktop\\login register\\userloginregister\\userloginregister\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D89C2890-45B0-4527-BCDA-C52825160470}|UserLoginRegister\\UserLoginRegister.csproj|solutionrelative:userloginregister\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UserLoginRegister\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T16:16:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "UserLoginRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\appsettings.json",
+              "RelativeToolTip": "UserLoginRegister\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T15:53:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Program.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Program.cs",
+              "RelativeToolTip": "UserLoginRegister\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:51:35.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UserLoginRegister\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T16:16:29.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appUser.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Models\\appUser.cs",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Models\\appUser.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Models\\appUser.cs",
+              "RelativeToolTip": "UserLoginRegister\\Models\\appUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:20:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserLoginRegister\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:53:06.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProniaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Contexts\\ProniaDbContext.cs",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Contexts\\ProniaDbContext.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Contexts\\ProniaDbContext.cs",
+              "RelativeToolTip": "UserLoginRegister\\Contexts\\ProniaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:42:23.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserLoginRegister\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:53:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserLoginRegister\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\login register\\UserLoginRegister\\UserLoginRegister\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserLoginRegister\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOIDAAAAAAAAAAAAAD4EAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:56:26.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
